@@ -5,7 +5,7 @@ A lightweight, high-performance 3D perspective projection starfield simulator op
 ## Hardware Demonstration
 Below is a live recording of the simulation rendering at 40 frames per second on the 128x32 OLED panel layout:
 
-[https://github.com/user-attachments/assets/demo.mp4](https://github.com/IRazvannN/Starfield-Warp-Simulation/blob/main/demo.mp4)
+<video src="demo.mp4" width="100%" controls muted autoplay loop></video>
 
 ## Hardware Specifications
 - **Microcontroller:** ESP32-S3
